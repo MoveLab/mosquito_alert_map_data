@@ -1,6 +1,6 @@
 # Mosquito Alert Map Data
 
-This repository contains the data used for the Mosquito Alert webmap, updated nightly.
+This repository contains the data used for the [Mosquito Alert](http://mosquitoalert.com) webmap, updated nightly.
 
 ## Citation
 
